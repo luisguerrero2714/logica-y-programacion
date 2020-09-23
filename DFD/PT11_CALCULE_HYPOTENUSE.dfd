@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+'P1P11 calculate hypotenuse.maker:luis david guerrero cmamcho'
+4
+1
+36
+'Ingrese los valores de los catetos'
+5
+1
+3
+a,b
+6
+1
+1
+c
+13
+sqrt(a*a+b*b)
+4
+1
+21
+'la hipotenusa es:',c
+1

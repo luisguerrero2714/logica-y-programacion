@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+'P1T8: Blood preassure.maker:luis david guerrero camacho'
+4
+1
+30
+'imput the systolic preassure'
+5
+1
+8
+systolic
+7
+0
+1
+12
+systolic <=0
+7
+0
+1
+13
+systolic >119
+7
+0
+1
+32
+systolic >120 and systolic < 140
+7
+0
+1
+33
+systolic > 139  and systolic <160
+4
+1
+21
+'run to the hospital'
+13
+4
+1
+22
+'you are hypertensive'
+13
+13
+4
+1
+26
+'you are pre-hypertensive'
+13
+13
+4
+1
+27
+'you have pre-hypertension'
+13
+13
+4
+1
+16
+'you are normal'
+13
+1

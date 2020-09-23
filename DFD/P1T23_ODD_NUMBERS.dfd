@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+105
+'P1T23 this program shows odd numbers from 11 to 99, enter the number.maker:luis david guerrero cammacho'
+8
+1
+1
+i
+1
+2
+11
+1
+2
+99
+1
+1
+1
+6
+1
+7
+residue
+7
+i mod 2
+7
+0
+1
+9
+residue=1
+13
+4
+1
+25
+'the number', i, 'is odd'
+13
+10
+1

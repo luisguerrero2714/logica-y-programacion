@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'P1T17 salary of an employee.maker:luis david guerrero camacho'
+4
+1
+17
+'input the value'
+5
+1
+5
+wages
+4
+1
+33
+'input the number of days worked'
+5
+1
+4
+days
+7
+0
+1
+19
+days<1 or days >30 
+6
+1
+6
+salary
+15
+(wages/30)*days
+13
+4
+1
+54
+'ERROR:days cannot be less than 1 nor greater than 30'
+13
+4
+1
+46
+'the salary that you will receive is $',salary
+1

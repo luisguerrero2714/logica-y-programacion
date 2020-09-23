@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+128
+'P1T22 THIS PROGRAM CONSISTS OF PUBLISHING THE SALARY OF WORKERS.MAKER:LUIS DAVID GUERRERO CAMACHO. ENTER THE NUMBER OF WORKERS'
+5
+1
+1
+N
+6
+3
+14
+average_salary
+1
+0
+12
+total_salary
+1
+0
+14
+highest_salary
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+71
+'ENTER THE SALARY AND DAYS WORKED FOR THE MONTH FOR EMPLOYEE NUMBER', I
+5
+1
+18
+SALARY, DAYSWORKED
+6
+2
+6
+SALARY
+26
+(SALARY / 30) * DAYSWORKED
+12
+total_salary
+19
+total_salary+SALARY
+7
+0
+1
+23
+SALARY > highest_salary
+13
+6
+1
+14
+highest_salary
+6
+SALARY
+13
+10
+6
+1
+14
+average_salary
+12
+total_salary
+4
+1
+120
+'THE TOTAL SALARY IS:", total salary, "the average salary is:", average_salary, "THE HIGHEST SALARY IS:', highest_salary
+1

@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+88
+' this program realice the sumatory to trhee numbers : make luis david guerrero camacho'
+4
+1
+24
+'imput the first number'
+5
+1
+2
+n1
+4
+1
+24
+'imput the secon number'
+5
+1
+2
+n2
+4
+1
+17
+'imput the tirdh'
+5
+1
+2
+n3
+6
+1
+3
+sum
+8
+n1+n2+n3
+4
+1
+21
+'the sumatory is',sum
+1

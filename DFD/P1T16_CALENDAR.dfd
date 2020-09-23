@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+'P1T16 calendar.maker:luis david guerrero camacho'
+5
+1
+5
+month
+7
+0
+1
+22
+month < 1 or month >12
+7
+0
+1
+9
+month = 2
+7
+0
+1
+49
+month = 4 or month = 6 or month = 9 or month = 11
+4
+1
+31
+'this moth has: thity one days'
+13
+4
+1
+29
+'this month has:thirty days '
+13
+13
+4
+1
+31
+'this month  has: twenty eight'
+13
+13
+4
+1
+28
+'ERROR: this month no exist'
+13
+1

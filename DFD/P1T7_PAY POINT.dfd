@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'P1P7 pay point , maker luis david guerrero camacho'
+4
+1
+23
+'imput the 1° product '
+5
+1
+2
+p1
+4
+1
+22
+'imput the 2° product'
+5
+1
+2
+p2
+4
+1
+22
+'imput the 3° product'
+5
+1
+2
+p3
+4
+1
+19
+'imput 4° product '
+5
+1
+2
+p4
+6
+3
+3
+sum
+11
+p1+p2+p3+p4
+3
+iva
+8
+sum*0.19
+5
+total
+7
+sum+iva
+4
+1
+77
+' the sumatory is : $ ' ,sum, ' IVA 19%: $ ' ,iva,  ' total bill : $ ', total
+1

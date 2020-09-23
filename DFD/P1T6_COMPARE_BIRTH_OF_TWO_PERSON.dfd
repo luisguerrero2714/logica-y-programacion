@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+'P1T6: Compare birth of two person.maker: luis david guerrero camacho'
+4
+1
+40
+'mput the year of birth of first person'
+5
+1
+5
+yearA
+4
+1
+42
+'imput the year of birth of second person'
+5
+1
+5
+yearB
+7
+0
+1
+13
+yearA = yearB
+7
+1
+1
+13
+yearA > yearB
+4
+1
+55
+' the person B (',yearB,') is oldes than A (',yearA,')'
+13
+4
+1
+55
+' the person A (',yearA,') is oldes than B (',yearB,')'
+13
+13
+4
+1
+33
+'the two people are the same age'
+13
+1
